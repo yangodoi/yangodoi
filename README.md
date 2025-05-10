@@ -1,4 +1,4 @@
-Hello, everybody 👋
+Hi, everybody. 
 I'm Yan Lucas
 
 - 🔭 I'm currently working at Camon telecom
