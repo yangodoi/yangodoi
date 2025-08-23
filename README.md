@@ -1,9 +1,9 @@
 Hi, everybody. 
 I'm Yan Lucas
 
-- 🔭 I'm currently working at Camon telecom
-- 🌱 I'm currently studying computer science at CEUB
-- 📫 How to reach me: yan.godoi@sempreceub.com and yangodoi@gmail.com
+- 🔭 I'm currently studying and actively looking for internship opportunities.
+- 🌱 I'm currently studying computer science at CEUB and Software Engineering at Unb
+- 📫 How to reach me: yangodoi@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangodoi&theme=dark&show_icons=true)  
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangodoi&lay
