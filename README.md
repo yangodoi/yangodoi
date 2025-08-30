@@ -3,7 +3,9 @@ I'm Yan Lucas
 
 - 🔭 I'm currently studying and actively looking for internship opportunities.
 - 🌱 I'm currently studying computer science at CEUB and Software Engineering at Unb
+- 📄 CV- http://lattes.cnpq.br/2511588322276365
 - 📫 How to reach me: yangodoi@gmail.com
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangodoi&theme=dark&show_icons=true)  
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangodoi&lay
