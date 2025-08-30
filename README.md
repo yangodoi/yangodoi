@@ -2,7 +2,7 @@ Hi, everybody.
 I'm Yan Lucas
 
 - 🔭 I'm currently studying and actively looking for internship opportunities.
-- 🌱 I'm currently studying computer science at CEUB and Software Engineering at Unb
+- 🌱 I'm currently studying Software Engineering at Unb and Computer Science at CEUB
 - 📄 CV- http://lattes.cnpq.br/2511588322276365
 - 📫 How to reach me: yangodoi@gmail.com
 
