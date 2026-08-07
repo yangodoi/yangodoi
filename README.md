@@ -2,7 +2,7 @@ Hi, everybody.
 I'm Yan Lucas
 
 - 🔭 I'm currently studying and actively looking for internship opportunities.
-- 🌱 I'm currently studying Software Engineering at Unb
+- 🌱 Currently, I am an IT Intern at ONE Elevadores, working with IT infrastructure and computer science. I am seeking to expand my practical experience, continuously improve my technical skills, and contribute to the development of efficient and innovative technology solutions.
 - 📄 CV- http://lattes.cnpq.br/2511588322276365
 - 📫 How to reach me: yangodoi@gmail.com
 
