@@ -1,7 +1,7 @@
 Hi, everybody. 
 I'm Yan Lucas
 
-- 🔭 I'm currently studying and actively looking for internship opportunities.
+- 🔭 Software Engineering Student at the University of Brasília (UnB)
 - 🌱 Currently, I am an IT Intern at ONE Elevadores, working with IT infrastructure and computer science. I am seeking to expand my practical experience, continuously improve my technical skills, and contribute to the development of efficient and innovative technology solutions.
 - 📄 CV- http://lattes.cnpq.br/2511588322276365
 - 📫 How to reach me: yangodoi@gmail.com
@@ -15,7 +15,7 @@ I'm Yan Lucas
 </div>
 <div>
     <h1>Meios de contato</h1>
-    <a href="https://www.linkedin.com/in/yan-lucas-a10061242/" target="_blank">
+    <a href="https://www.linkedin.com/in/yan-lucas-godoi-a10061242/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a> 
     <a href="https://www.instagram.com/yanlucas.g/" target="_blank">
