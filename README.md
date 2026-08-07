@@ -2,7 +2,7 @@ Hi, everybody.
 I'm Yan Lucas
 
 - 🔭 Software Engineering Student at the University of Brasília (UnB)
-- 🌱 Currently, I am an IT Intern at ONE Elevadores, working with IT infrastructure and computer science. I am seeking to expand my practical experience, continuously improve my technical skills, and contribute to the development of efficient and innovative technology solutions.
+- 🌱 Currently, I am an IT Intern at ONE Elevadores, working with IT infrastructure and computer science. 
 - 📄 CV- http://lattes.cnpq.br/2511588322276365
 - 📫 How to reach me: yangodoi@gmail.com
 
